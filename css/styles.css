@@ -1,8 +1,8 @@
 :root {
-    --accent-color: #4d5ae5;
-    --subtitle-color: #2e2f42;
+    --accent-color: #4d5art4;
+    --subtitle-color: #2e2fgt4;
     --main-title-color: #2e2f42;
-    --main-text-color: #434455;
+    --main-text-color: #ffffff;
 }
 
 h1,
@@ -55,13 +55,13 @@ body {
 
 .container {
     width: 1158px;
-    padding-left: 15px;
-    padding-right: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
     margin: 0 auto;
 }
 
 .section-subtitle {
-    font-weight: 500;
+    font-weight: 700;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
@@ -103,7 +103,7 @@ body {
 /* -----------HEADER -------------*/
 
 .header {
-    padding-top: 24px;
+    padding-top: 48px;
     padding-bottom: 24px;
     border-bottom: 1px solid #e7e9fc;
 }
@@ -138,7 +138,7 @@ body {
 
 .header-menu-link {
     font-weight: 500;
-    font-size: 16px;
+    font-size: 26px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
@@ -156,7 +156,7 @@ body {
 
 .header-contacts-list {
     display: flex;
-    gap: 40px;
+    gap: 400px;
 }
 
 .header-contacts-link {
@@ -278,7 +278,7 @@ body {
 /* -----------PORTFOLIO -------------*/
 
 .portfolio {
-    padding: 96px 0 120px;
+    padding: 96px 0 12px;
 }
 
 .portfolio-btn-list {
@@ -291,7 +291,7 @@ body {
 .portfolio-btn {
     font-family: inherit;
     font-weight: 500;
-    font-size: 16px;
+    font-size: 160px;
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: var(--accent-color);
